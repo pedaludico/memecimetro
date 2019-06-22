@@ -1,5 +1,5 @@
 # memecimetro
-
+Esta es la versión de pedalúdico
 ## otro velocímetro para bicicletas
 ## arduino + display nokia 5110 + reed switch + bicicletas = ???
 
